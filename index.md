@@ -28,7 +28,8 @@ SESION 03 ___________
 DNS máquina con Gitlab: jch004-hmis18-vm1.eastus.cloudapp.azure.com   (encender)
 DNS máquina con Jenkins: olm549-hmis18-vm2.eastus.cloudapp.azure.com  (encender)
 
-Repositorio Gitlab con ejercicios: 
+Repositorio Gitlab con ejercicios: http://jch004-hmis18-vm1.eastus.cloudapp.azure.com/juanjocamacho/hmis-sesion02/
+          - Si falla la entrada con la cuenta jjcanada, usar los datos de acceso recibidos por correo del equipo Evolution.
 
 SESION 04 ___________
 
