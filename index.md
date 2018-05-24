@@ -15,5 +15,31 @@ Universidad de Almería
 
 
 ```
+### Datos de sesiones HMIS
+
+```markdown
+SESION 02 ___________
+
+Nombre máquina: jch004-hmis18-vm1
+DNS: jch004-hmis18-vm1.eastus.cloudapp.azure.com
+
+SESION 03 ___________
+
+DNS máquina con Gitlab: jch004-hmis18-vm1.eastus.cloudapp.azure.com   (encender)
+DNS máquina con Jenkins: olm549-hmis18-vm2.eastus.cloudapp.azure.com  (encender)
+
+Repositorio Gitlab con ejercicios: 
+
+SESION 04 ___________
+
+URL Github página de equipo: https://github.com/juanjocamacho/evolution
+URL Azure página de equipo desplegada: evolution-hmis18-vm3.northeurope.cloudapp.azure.com    (encender)
+
+Repositorio Github página de equipo: https://github.com/juanjocamacho/evolution
+Repositorio forqueado página de equipo: (soy propietario, no puedo forquear, salvo a ualhmis del que soy miembro). 
+                                        El fork de mi compañero: https://github.com/olm549/evolution
 
 
+
+
+```
